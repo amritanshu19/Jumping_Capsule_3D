@@ -7,5 +7,8 @@ This is a simple 3D game which has obstacles and coins. A user needs to clear th
 
 Video Demo: https://youtu.be/npq_Z505PPs
 
+Download here: https://ax19.itch.io/jumping-capsule-3d
+
+
 Preview:
 ![Screenshot (310)](https://user-images.githubusercontent.com/83136054/159842982-7309e3bf-07f2-401b-aa83-a354b9f97915.png)
